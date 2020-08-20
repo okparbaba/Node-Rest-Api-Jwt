@@ -16,7 +16,7 @@
   "author": "Mahesh Bhanushali",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "2.0.1",
+    "bcrypt": "5.0.0",
     "body-parser": "1.18.2",
     "express": "^4.16.3",
     "jsonwebtoken": "^8.2.1",
